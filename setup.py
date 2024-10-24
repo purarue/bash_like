@@ -9,9 +9,8 @@ pkg = "bash_like"
 setup(
     name=pkg,
     version="0.1.2",
-    url="https://github.com/seanbreckenridge/bash_like",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    url="https://github.com/purarue/bash_like",
+    author="purarue",
     description=(
         """A small utility library to handle arguments and read/write text to files using bash-like syntax"""
     ),
